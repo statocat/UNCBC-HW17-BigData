@@ -5,7 +5,7 @@ The purpose of this analysis is to determine if Amazon reviews incentivized by t
 
 * There were 40,565 reviews in total in this dataset. The majority of reviews (40,471, 99.77%) came from non-Vine members, while only 94 (0.23%) of the reviews were made by Amazon Vine members.
 
-* There were 15,771 5-star reviews in total in this dataset. The majority of 5-star reviews (15,663 99.69%) came from non-Vine members, while only 48 (0.31%) of 5-star reviews were made by Amazon Vine members
+* There were 15,771 5-star reviews in total in this dataset. The majority of 5-star reviews (15,663, 99.69%) came from non-Vine members, while only 48 (0.31%) of 5-star reviews were made by Amazon Vine members
 
 * Vine reviewers gave a 5-star rating 51.06% of the time, while 38.70% of non-Vine members gave a 5-star rating. 
 
